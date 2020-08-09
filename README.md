@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi, I'm Pranay 👋
 
 <!--
 **Bomma-Pranay/Bomma-Pranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+
+I am a person who loves coding, reading books, and solving challenges. I am passionate about Machine Learning and I want to apply Machine Learning to tackle real-world problems. I love to teach and I am a constant learner. I am excited about Electric cars, Solar energy, and Automation.
 
 - 🔭 I’m currently working on NLP
 - 🌱 I’m currently learning R 
