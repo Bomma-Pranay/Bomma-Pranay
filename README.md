@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning R 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: Email : gullupranay@gmail.com
-- ⚡ Fun fact: I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
+- ⚡ More about me: I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
 
 ### Connect with me:
 
