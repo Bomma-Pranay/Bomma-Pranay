@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
 [<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg" />][jupyter]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />][pandas]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />][vscode]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pycharm.svg" />][pycharm]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg" />][rstudio]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />][numpy]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />][mpl]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />][pycharm]
+[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" />][rstudio]
 
 <br />
 <br />
@@ -35,11 +38,13 @@ Here are some ideas to get you started:
 
 [youtube]: https://www.youtube.com/channel/UCyBGFKqHd9j1tcqbqonTsqw
 [linkedin]: https://linkedin.com/in/bomma-pranay
-[python]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg
+[python]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
 [r]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg
-[jupyter]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg
-[pandas]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg
-[vscode]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg
-[pycharm]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pycharm.svg
-[rstudio]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/rstudio.svg
+[jupyter]: https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg
+[mpl]:https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg
+[pandas]: https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg
+[vscode]: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
+[pycharm]: https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg
+[rstudio]: https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg
+[scikit]: https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg
 
