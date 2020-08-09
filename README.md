@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][python]
+[<img align="left"  width="22px" src="https://images.app.goo.gl/WuDnBUdkrFVjgebk7" />]
 
 <br />
 <br />
