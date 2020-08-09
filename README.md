@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]
-[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter]
+[<img align="left"  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+[<img align="left"  width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]
+[<img align="left"  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter]
 [<img align="left"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />][numpy]
 [<img align="left"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
 [<img align="left"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
-[<img align="left"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />][mpl]
-[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
-[<img align="left"  width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />][pycharm]
+[<img align="left"  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />][mpl]
+[<img align="left"  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+[<img align="left"  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />][pycharm]
 [<img align="left"  width="52px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" />][rstudio]
 
 <br />
