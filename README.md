@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 [r]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg
 [jupyter]: https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg
 [mpl]:https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg
+[numpy]:https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg
 [pandas]: https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg
 [vscode]: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
 [pycharm]: https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg
