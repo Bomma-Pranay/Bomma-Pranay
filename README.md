@@ -20,7 +20,6 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
