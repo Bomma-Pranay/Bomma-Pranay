@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 I am a person who loves coding, reading books, and solving challenges. I am passionate about Machine Learning and I want to apply Machine Learning to tackle real-world problems. I love to teach and I am a constant learner. I am excited about Electric cars, Solar energy, and Automation.
 
-- 🔭 I’m currently working on NLP
-- 🌱 I’m currently learning R 
+<!--- 🔭 I’m currently working on NLP-->
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: Email : gullupranay@gmail.com
 - ⚡ More about me : I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
