@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 I am a person who loves coding, reading books, and solving challenges. I am passionate about Machine Learning and I want to apply Machine Learning to tackle real-world problems. I love to teach and I am a constant learner. I am excited about Electric cars, Solar energy, and Automation.
 
 <!--- 🔭 I’m currently working on NLP-->
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: Email : gullupranay@gmail.com
 - ⚡ More about me : I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
@@ -24,7 +24,7 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 ### Languages and Tools:
 
 [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-<!-- [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]-->
+[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r]
 [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter]
 [<img align="left"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />][numpy]
 [<img align="left"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
