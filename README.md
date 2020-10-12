@@ -20,23 +20,23 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
-Blog<br>
+### Blog<br>
 ✔https://medium.com/@PranayBomma <br>
 ✔Author at “The Startup” (Medium’s largest active publication) and “Analytics Vidhya”<br>
 <br>
-Achievements                                                                                           
+### Achievements                                                                                           
 ✔ Secured All India Rank 660 in TCS Codevita Round 1                    
 ✔ Among top scorers in Hackwithinfy round 2 <br>
 <br>
-Coding Profile<br>
-✔CodeChef      - 1605 ( Three-star )<br>
-✔HackerRank   - 5 stars in problem-solving<br>
+### Coding Profile<br>
+✔CodeChef       - 1605 ( Three-star )<br>
+✔HackerRank     - 5 stars in problem-solving<br>
 ✔InterviewBit   - A score of 9976<br>
 <br>
-Website<br>
+### Website<br>
 ✔http://bomma-pranay.mystrikingly.com<br>
 <br>
-Certifications <br>
+### Certifications <br>
 ✔ HackerRank Problem Solving (Basic)    <br>
 ✔ HackerRank Python (Basic)                 <br>   
 <br />
