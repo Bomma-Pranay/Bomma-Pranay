@@ -19,12 +19,13 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
+
 Blog<br>
 ✔https://medium.com/@PranayBomma <br>
 ✔Author at “The Startup” (Medium’s largest active publication) and “Analytics Vidhya”<br>
 <br>
-Achievements<br>                                                                                           
-✔ Secured All India Rank 660 in TCS Codevita Round 1<br>                    
+Achievements                                                                                           
+✔ Secured All India Rank 660 in TCS Codevita Round 1                    
 ✔ Among top scorers in Hackwithinfy round 2 <br>
 <br>
 Coding Profile<br>
