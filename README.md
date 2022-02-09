@@ -22,9 +22,9 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 ### Projects
 Practice Abacus Online <br> 
 August 2021 - January 2022 <br>
-Website Link: https://practiceabacusonline.com/ <br>
+Website Link: https://practiceabacusonline.com/ <br><br>
 A responsive website designed & developed for practicing Abacus (Math Tool) online & to download practice sheets for free. I have used Bootstrap, Vanilla JavaScript, Particle JS, Three JS, Hover CSS, JsPdf, SpeechSynthesis, Vanilla-tilt JS & many other CSS & JavaScript libraries to develop the website.
-<br> ★ The website is used by 500+ users monthly across the globe & received great feedback from the users.
+<br><br> ★ The website is used by 500+ users monthly across the globe & received great feedback from the users.
 <br> ★ Developed 16 pages with many features & customization options.
 <br> ★ Applied latest design trends like Glassmorphism, Dark Mode,
 <br> Animations, Responsive, Gradients, 3D design, etc.
