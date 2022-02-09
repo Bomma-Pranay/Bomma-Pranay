@@ -51,7 +51,6 @@ SEO.
 ### Certifications <br>
 ✔ HackerRank Problem Solving (Basic)    <br>
 ✔ HackerRank Python (Basic)                 <br>   
-<br />
 
 ### Awards <br>
 ✔ Honoured by former President of India Mrs.Pratibha Patil in Rashtrapati Bhavan 
