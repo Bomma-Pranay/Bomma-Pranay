@@ -53,6 +53,12 @@ SEO.
 ✔ HackerRank Python (Basic)                 <br>   
 <br />
 
+### Awards <br><br>
+✔ Honoured by former President of India Mrs.Pratibha Patil in Rashtrapati Bhavan 
+<br>✔ State 1st in Abacus Competition, 2011 
+<br>✔ Won five competitions in various International and National Level Abacus competitions
+<br>✔ Special appreciation award in National Science Day Celebrations held at our college
+
 ### Languages and Tools:
 
 [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
