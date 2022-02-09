@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I am a person who loves coding, reading books, and solving challenges. I am passionate about Machine Learning and I want to apply Machine Learning to tackle real-world problems. I love to teach and I am a constant learner. I am excited about Electric cars, Solar energy, and Automation.
+I am a person who loves coding, reading books, and solving challenges. I am passionate about Data Science and I want to apply Data Science to tackle real-world problems which help in making our life better. I love to teach and I am a constant learner.
 
 <!--- 🔭 I’m currently working on NLP-->
 - 🌱 I’m currently learning Machine Learning 
@@ -22,11 +22,11 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 
 ### Blog<br>
 ✔https://medium.com/@PranayBomma <br>
-✔Author at “The Startup” (Medium’s largest active publication) and “Analytics Vidhya”<br>
 <br>
 ### Achievements                                                                                           
 ✔ Secured All India Rank 660 in TCS Codevita Round 1                    
 ✔ Among top scorers in Hackwithinfy round 2 <br>
+✔ Scored 1417/1800 in TCS NQT <br>
 <br>
 ### Coding Profile<br>
 ✔CodeChef       - 1605 ( Three-star )<br>
@@ -51,7 +51,7 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 <!-- [<img align="left"  width="68px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]-->
 [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />][mpl]
 [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />][pycharm]
+<!-- [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />][pycharm] -->
 <!-- [<img align="left"  width="93px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" />][rstudio]-->
 
 <br />
