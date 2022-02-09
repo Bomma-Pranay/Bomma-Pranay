@@ -26,8 +26,7 @@ Website Link: https://practiceabacusonline.com/ <br><br>
 A responsive website designed & developed for practicing Abacus (Math Tool) online & to download practice sheets for free. I have used Bootstrap, Vanilla JavaScript, Particle JS, Three JS, Hover CSS, JsPdf, SpeechSynthesis, Vanilla-tilt JS & many other CSS & JavaScript libraries to develop the website.
 <br><br> ★ The website is used by 500+ users monthly across the globe & received great feedback from the users.
 <br> ★ Developed 16 pages with many features & customization options.
-<br> ★ Applied latest design trends like Glassmorphism, Dark Mode,
-<br> Animations, Responsive, Gradients, 3D design, etc.
+<br> ★ Applied latest design trends like Glassmorphism, Dark Mode, Animations, Responsive, Gradients, 3D design, etc.
 <br> ★ One Single place for all kinds of Abacus practice materials.
 <br> ★ Integrated Google Analytics, Google Search Console & applied basic
 SEO.
