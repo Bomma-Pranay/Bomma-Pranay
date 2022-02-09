@@ -19,19 +19,19 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
-### PROJECTS
-Practice Abacus Online
-August 2021 - January 2022
-Website Link: https://practiceabacusonline.com/
+### Projects
+Practice Abacus Online <br> 
+August 2021 - January 2022 <br>
+Website Link: https://practiceabacusonline.com/ <br>
 A responsive website designed & developed for practicing Abacus (Math Tool) online & to download practice sheets for free. I have used Bootstrap, Vanilla JavaScript, Particle JS, Three JS, Hover CSS, JsPdf, SpeechSynthesis, Vanilla-tilt JS & many other CSS & JavaScript libraries to develop the website.
-★ The website is used by 500+ users monthly across the globe & received great feedback from the users.
-★ Developed 16 pages with many features & customization options.
-★ Applied latest design trends like Glassmorphism, Dark Mode,
-Animations, Responsive, Gradients, 3D design, etc.
-★ One Single place for all kinds of Abacus practice materials.
-★ Integrated Google Analytics, Google Search Console & applied basic
+<br> ★ The website is used by 500+ users monthly across the globe & received great feedback from the users.
+<br> ★ Developed 16 pages with many features & customization options.
+<br> ★ Applied latest design trends like Glassmorphism, Dark Mode,
+<br> Animations, Responsive, Gradients, 3D design, etc.
+<br> ★ One Single place for all kinds of Abacus practice materials.
+<br> ★ Integrated Google Analytics, Google Search Console & applied basic
 SEO.
-★ An Android App version will be launched soon.
+<br> ★ An Android App version will be launched soon.
 
 ### Blog<br>
 ✔https://medium.com/@PranayBomma <br>
