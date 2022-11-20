@@ -76,10 +76,11 @@ SEO.
 
 <br />
 <br />
-[kaggle]: https://www.kaggle.com/pranaii
-[twitter]: https://twitter.com/Pranaii1
-[youtube]: https://www.youtube.com/channel/UCyBGFKqHd9j1tcqbqonTsqw
+
 [linkedin]: https://linkedin.com/in/bomma-pranay
+[twitter]: https://twitter.com/Pranaii1
+[kaggle]: https://www.kaggle.com/pranaii
+[youtube]: https://www.youtube.com/channel/UCyBGFKqHd9j1tcqbqonTsqw
 [python]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
 [r]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg
 [jupyter]: https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg
