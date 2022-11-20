@@ -16,8 +16,11 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 
 ### Connect with me:
 
-[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />][kaggle]
+[<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br>
 ### Projects
 Practice Abacus Online <br> 
