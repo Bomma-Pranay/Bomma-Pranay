@@ -76,8 +76,8 @@ SEO.
 
 <br />
 <br />
-
-
+[kaggle]: https://www.kaggle.com/pranaii
+[twitter]: https://twitter.com/Pranaii1
 [youtube]: https://www.youtube.com/channel/UCyBGFKqHd9j1tcqbqonTsqw
 [linkedin]: https://linkedin.com/in/bomma-pranay
 [python]: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
