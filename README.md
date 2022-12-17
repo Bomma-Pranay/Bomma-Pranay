@@ -13,7 +13,7 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: Email : gullupranay@gmail.com
 - ⚡ More about me : I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
-
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/pranaii)
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/notebook)
