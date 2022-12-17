@@ -14,11 +14,12 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 - 📫 How to reach me: Email : gullupranay@gmail.com
 - ⚡ More about me : I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
 ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/pranaii)
+<!-- 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/discussion)
-
+ -->
 ### Connect with me:
 
 
@@ -81,7 +82,6 @@ SEO.
 
 <br />
 <br />
-[competition]: https://www.kaggle.com/pranaii/competitions
 [linkedin]: https://linkedin.com/in/bomma-pranay
 [twitter]: https://twitter.com/Pranaii1
 [kaggle]: https://www.kaggle.com/pranaii
