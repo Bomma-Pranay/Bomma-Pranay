@@ -81,7 +81,7 @@ SEO.
 
 <br />
 <br />
-
+[competition]: https://www.kaggle.com/pranaii/competitions
 [linkedin]: https://linkedin.com/in/bomma-pranay
 [twitter]: https://twitter.com/Pranaii1
 [kaggle]: https://www.kaggle.com/pranaii
