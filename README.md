@@ -2,7 +2,6 @@
 
 <!--
 **Bomma-Pranay/Bomma-Pranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
@@ -13,13 +12,7 @@ I am a person who loves coding, reading books, and solving challenges. I am pass
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: Email : gullupranay@gmail.com
 - ⚡ More about me : I'm a YouTuber, Abacus State Champion, Artist, Bibliophile 
-![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/pranaii)
-<!-- 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/pranaii/discussion)
- -->
+
 ### Connect with me:
 
 
@@ -82,6 +75,7 @@ SEO.
 
 <br />
 <br />
+
 [linkedin]: https://linkedin.com/in/bomma-pranay
 [twitter]: https://twitter.com/Pranaii1
 [kaggle]: https://www.kaggle.com/pranaii
@@ -96,4 +90,3 @@ SEO.
 [pycharm]: https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg
 [rstudio]: https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg
 [scikit]: https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg
-
