@@ -80,7 +80,7 @@ A Mathematics and Art lover which led me to Data Science and Visualization. I am
 - HackerRank Python (Basic)
 
 ### Awards
-- Honored by former **President of India** Mrs.Pratibha Patil in Rashtrapati Bhavan for securing **State 1st in Abacus Competition** in 2011 & 5 **International** and **National** Level competitions.
+- Honored by former **President of India** Mrs. Pratibha Patil in Rashtrapati Bhavan for securing **State 1st in Abacus Competition** in 2011 & 5 **International** and **National** Level competitions.
 - Special appreciation award in National Science Day Celebrations held at our college
 
 <!-- ### Languages and Tools:
