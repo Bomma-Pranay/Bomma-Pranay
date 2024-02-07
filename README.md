@@ -42,8 +42,25 @@ A Mathematics and Art lover which led me to Data Science and Visualization. I am
   - Created **16 interactive pages** with diverse functionalities and customization options, providing a comprehensive and engaging learning experience.
   - **Future ideas**: Set up login mechanism, database integration, analyse student’s performance by creating dashboards.
 
-### Links
+### Technical Skills
+- **Data Science & Mathematics:**
+  - Data Visualization • Machine Learning • Data Analytics • Artificial Intelligence (AI) • Supervised Learning • Neural Networks • Deep Learning • Ensemble Learning • Feature Engineering • Probability • Statistics • Time-Series Analysis and Forecasting
+- **Python libraries:**
+  - NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn • TensorFlow • Keras 
+- **Languages & Others:**
+  - Python • SQL (Postgres) • JavaScript/HTML/CSS • Data Structures & Algorithms
+  
+### Education
+- **Osmania University**
+  - B.E in CSE
+  - July 2021 | Hyderabad, India | CGPA: **8.59 / 10**
+- **Sri Chaitanya Junior College**
+  - Maths, Physics & Chemistry
+  - May 2017 | Hyderabad, India | **983 / 1000**
+- **St. Adams High School**
+  - Mar 2015 | Hyderabad, India | **CGPA: 9.7 / 10**
 
+### Links
 - **Kaggle**: [https://kaggle.com/pranaii](https://kaggle.com/pranaii)
 - **LinkedIn**: [https://www.linkedin.com/in/bomma-pranay/](https://www.linkedin.com/in/bomma-pranay/)
 - **GitHub**: [https://github.com/Bomma-Pranay](https://github.com/Bomma-Pranay)
