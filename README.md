@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-A Mathematics and Art lover which led me to Data Science and Visualization. I am interested in solving real-world problems using Data that help improve our decisions & lives. Currently, learning & working on some cool Data Science projects. I believe that with the help of Data Science, there are infinite possibilities for innovations like we had at the time of Industrial Revolution & Computer boom. I am really excited to witness and be a part of it. I also love to write, teach and I am a constant learner.
+A Mathematics and Art lover which led me to Data Science and Visualization. I am interested in solving real-world problems using Data that help improve our decisions & lives. Currently, learning & working on some cool Data Science projects. I believe that with the help of Data Science, there are infinite possibilities for innovations. I am really excited to witness and be a part of it. I also love to teach and I am a constant learner.
 
 <!--- 🔭 I’m currently working on NLP-->
 - 🌱 I’m currently learning CNNs 
@@ -32,6 +32,7 @@ A Mathematics and Art lover which led me to Data Science and Visualization. I am
   - Spearheaded a multi-national team of 5 at **Omdena**, managing data collection, EDA, model training, & documentation.
   - Collected & compiled hourly data for **4 stations in Gurugram** from CPCB.
   - **Resolved 30% of missing values** using appropriate imputation techniques by performing **comprehensive EDA** using Pandas, Matplotlib, Seaborn.
+  - Trained **Scikit-learn** Machine Learning regression models for AQI prediction, incorporating pollutants as features. Employed hyperparameter tuning and researched the best parameters.
   - Exported the **best kNN model** using Pickle & deployed **Flask** app on **Render** for **real-time AQI prediction**.
 
 - #### Practice Abacus Online | August 2021 - January 2022 | Website Link: https://practiceabacusonline.com/ | [Demo video](https://www.youtube.com/watch?v=imP996gsjnM)
@@ -65,21 +66,18 @@ A Mathematics and Art lover which led me to Data Science and Visualization. I am
 - Honored by former **President of India** Mrs.Pratibha Patil in Rashtrapati Bhavan for securing **State 1st in Abacus Competition** in 2011 & 5 **International** and **National** Level competitions.
 - Special appreciation award in National Science Day Celebrations held at our college
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+<!-- [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]-->
 <!-- [<img align="left"  width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/r.svg" />][r] -->
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter]
-[<img align="left"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />][numpy]
-[<img align="left"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]
-[<img align="left"  width="68px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />][mpl]
-[<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]
+<!-- [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />][jupyter]-->
+<!-- [<img align="left"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />][numpy]-->
+<!-- [<img align="left"  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][pandas]-->
+<!-- [<img align="left"  width="68px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][scikit]-->
+<!-- [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />][mpl]-->
+<!-- [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />][vscode]-->
 <!-- [<img align="left"  width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" />][pycharm] -->
 <!-- [<img align="left"  width="93px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" />][rstudio]-->
-
-<br />
-<br />
 
 [linkedin]: https://linkedin.com/in/bomma-pranay
 [twitter]: https://twitter.com/Pranaii1
