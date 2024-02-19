@@ -4,7 +4,7 @@
 **Bomma-Pranay/Bomma-Pranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-I'm Pranay, a passionate individual with a love for both Mathematics and Art. They may seem like an unlikely pair, but for me, they opened the door to the fascinating world of Data Science and Visualization. My primary drive lies in leveraging data-driven insights to tackle real-world challenges, ultimately enhancing decision-making processes and positively impacting lives.
+A passionate individual with a love for both Mathematics and Art. They may seem like an unlikely pair, but for me, they opened the door to the fascinating world of Data Science and Visualization. My primary drive lies in leveraging data-driven insights to tackle real-world challenges, ultimately enhancing decision-making processes and positively impacting lives.
 
 I'm actively learning and diving into exciting Data Science projects. I firmly believe that data holds infinite potential for innovation, and I'm thrilled to be at the forefront of this ever-evolving field.
 
