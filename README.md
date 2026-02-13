@@ -4,7 +4,7 @@
 **Bomma-Pranay/Bomma-Pranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-Data Scientist & Software Engineer with 4+ years of experience in Python, predictive modeling, and production-level deployments. Kaggle Top 2% globally and experienced in leading cross-functional teams at Omdena. Strong technical foundation spanning the full ML lifecycle. Successfully delivered production ML systems processing 150K+ data points with 83.5% accuracy, deployed real-time prediction APIs, and built retraining workflows.
+Data Scientist & Software Engineer with 4.6+ years of experience in Python, predictive modeling, and production-level deployments. Kaggle Top 2% globally and experienced in leading cross-functional teams at Omdena. Strong technical foundation spanning the full ML lifecycle. Successfully delivered production ML systems processing 150K+ data points with 83.5% accuracy, deployed real-time prediction APIs, and built retraining workflows.
 <!--- 🔭 I’m currently working on NLP-->
 - 🌱 I’m currently learning GenAI
 - 👯 I’m looking to collaborate on Data Science Projects
@@ -18,12 +18,20 @@ Data Scientist & Software Engineer with 4+ years of experience in Python, predic
 
 ### EXPERIENCE
 
-- #### [AQI Calculator - AQI-Calculator.onrender.com](https://aqi-calculator.onrender.com) | [GitHub](https://github.com/Bomma-Pranay/Analysing-Air-Quality-Index-using-Machine-Learning/tree/model_new/ipynotebooks/MachineLearning_AQI_calculator) | [Blog](https://medium.com/@PranayBomma/the-story-of-my-first-ml-project-4fc111a7f8d3) | Mar 2023 - May 2023 | Pandas | Seaborn | Scikit-learn | Flask | [Certificate](https://drive.google.com/file/d/1E2_IPkS2Cnd3KNDSc8c2vLJKItajdU6s/view?usp=sharing)
-  - Trained predictive models for **Air Quality Index (AQI)** based on input pollutants, attained **83.5% accuracy** (R-squared) on **147,000+** data points.
-  - Spearheaded a multi-national team of 5 at Omdena, managed Data Processing, EDA, Model Training, & Documentation phases.
-  - Resolved 30% of missing values using Day-wise mean imputation technique after performing extensive EDA using Pandas & Seaborn.
-  - Deployed the best model as a Flask app on Render for real-time prediction.
+- #### Senior Analyst - Data Science at LatentView Analytics Feb 2026 - Present | Remote, India
+    
+- #### Senior Software Engineer at SS&C Technologies Apr 2024 - Jan 2026 | Software Engineer Aug 2021 - Mar 2024 | Hyderabad, India
+  - Developed an **automated monitoring** framework for FOCG maintenance **data pipelines**, comparing Postgres vs DB2 tables in 5-minute intervals; ensuring early detection of missing MQ messages and improved data reliability. Reduced manual incident discovery time by **80%**.
+  - Engineered **ETL pipelines** by integrating datasets across sources, preprocessing them, and ingesting into enterprise DBs with alerts and failure notifications, which reduced manual monitoring by **90%**.
+  - Built an **address enrichment pipeline** that parses Smarty API responses, applies business logic & updated DataOps tables; enhanced data quality and integrity across millions of address records.
+  - Automated **50+ critical features** validation scenarios simulating production workflows — cutting manual QA efforts by **50%**.
 
+- #### Omdena - Freelance Data Scientist [AQI Calculator - AQI-Calculator.onrender.com](https://aqi-calculator.onrender.com) | [GitHub](https://github.com/Bomma-Pranay/Analysing-Air-Quality-Index-using-Machine-Learning/tree/model_new/ipynotebooks/MachineLearning_AQI_calculator) | [Blog](https://medium.com/@PranayBomma/the-story-of-my-first-ml-project-4fc111a7f8d3) | Pandas | Seaborn | Scikit-learn | Flask | [Certificate](https://drive.google.com/file/d/1E2_IPkS2Cnd3KNDSc8c2vLJKItajdU6s/view?usp=sharing)
+  - Trained predictive models for **Air Quality Index (AQI)** based on input pollutants, attained 83.5% accuracy (R-squared) on **147,000+** data points.
+  - Spearheaded a **multi-national team of 5** at Omdena, managed Data Processing, EDA, Model Training, & Documentation phases.
+  - Resolved **30% of missing values** using Day-wise mean imputation technique after performing extensive EDA using Pandas & Seaborn.
+  - Deployed the best model as a Flask app on **Render** for real-time prediction.
+  
 ### PROJECTS
 
 - #### [AirCast - AirCastAQI.netlify.app](https://aircastaqi.netlify.app/) | [GitHub](https://github.com/Bomma-Pranay/Analysing-Air-Quality-Index-using-Machine-Learning/tree/model_new/ipynotebooks/Forecasting_time_series) | Python | Time-Series Forecasting | GitHub Actions | Netlify
@@ -32,13 +40,19 @@ Data Scientist & Software Engineer with 4+ years of experience in Python, predic
   - Scheduled a real-time data ingestion Cron Job (GitHub Actions) leveraging a real-time API call to collect new data & **retrain the model daily.**
   - Implemented CI/CD for ML: model validation & deployment triggers - Built monitoring & logging system ensuring 99%+ uptime for prediction service.
 
-- #### Practice Abacus Online | August 2021 - January 2022 | Website Link: https://practiceabacusonline.com/ | [Demo video](https://www.youtube.com/watch?v=imP996gsjnM)
+- #### Practice Abacus Online | [https://practiceabacusonline.com/](https://practiceabacusonline.com/) | [Demo video](https://www.youtube.com/watch?v=imP996gsjnM)
   - A **responsive website** for practicing Abacus (Math Tool) online & downloading practice sheets for free. An **innovative solution** that replaces old-school way of learning & practicing Abacus by introducing new ways to hone skills.
   - Currently, this website boasts a **monthly** user base of over **2000+ individuals globally** and has garnered commendable feedback for its user-friendly interface and effectiveness.
   - Leveraged a comprehensive tech stack including **Bootstrap, Vanilla JavaScript, Particle JS, Hover CSS, JsPdf, SpeechSynthesis** to deliver a seamless user experience.
   - Created **16+ interactive pages** with diverse functionalities and customization options, providing a comprehensive and engaging learning experience.
   - **Future ideas**: Set up login mechanism, database integration, analyse student’s performance by creating dashboards.
 
+### ACHIEVEMENTS                                                                                           
+- **Top 2% globally on Kaggle.**
+- Secured **Rank 660** in TCS Codevita among 185,000+
+- **Top 7%** in HackWithInfy.
+- Scored **1417/1800** in **TCS NQT**.
+  
 ### TECHNICAL SKILLS
 - **Data Science:**
   - Machine Learning • Deep Learning • Predictive Modeling • Regression & Classification • Time Series Forecasting • Exploratory Data Analysis (EDA) • Probability & Statistics • Data Cleaning • Data Visualization • Neural Networks
@@ -68,11 +82,6 @@ Data Scientist & Software Engineer with 4+ years of experience in Python, predic
 ### BLOG
 - [https://medium.com/@PranayBomma](https://medium.com/@PranayBomma)
 
-### ACHIEVEMENTS                                                                                           
-- **Top 2% globally on Kaggle.**
-- Secured **Rank 660** in TCS Codevita among 185,000+
-- **Top 7%** in HackWithInfy.
-- Scored **1417/1800** in **TCS NQT**.
 
 <!--
 ### Certifications
