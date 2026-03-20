@@ -3,8 +3,8 @@
 <!--
 **Bomma-Pranay/Bomma-Pranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
-Data Scientist & Software Engineer with 4.6+ years of experience in Python, predictive modeling, and production-level deployments. Kaggle Top 2% globally and experienced in leading cross-functional teams at Omdena. Strong technical foundation spanning the full ML lifecycle. Successfully delivered production ML systems processing 150K+ data points with 83.5% accuracy, deployed real-time prediction APIs, and built retraining workflows.
+--> 
+Data Scientist & Software Engineer with 4.6+ years of experience in Python, predictive modeling, and production-level deployments. Currently working in AI Center of Excellence (CoE) focusing on Generative AI, RAG pipelines, and Agentic AI systems. Kaggle Top 2% globally with strong expertise across the full ML lifecycle, including real-time inference systems, automated retraining pipelines, and scalable data workflows.
 <!--- 🔭 I’m currently working on NLP-->
 - 🌱 I’m currently learning GenAI
 - 👯 I’m looking to collaborate on Data Science Projects
@@ -19,6 +19,9 @@ Data Scientist & Software Engineer with 4.6+ years of experience in Python, pred
 ### EXPERIENCE
 
 - #### Senior Analyst - Data Science at LatentView Analytics Feb 2026 - Present | Remote, India
+    - Upskilling in AWS Cloud, Generative AI / LLMs, aligned to client engagements.
+    - Selected into AI Center of Excellence (CoE) and building hands-on expertise on Generative AI, RAG, and Agentic AI use cases aligned with client projects.
+    - Designing and experimenting with RAG-based pipelines involving document ingestion, embeddings, and semantic retrieval.
     
 - #### Senior Software Engineer at SS&C Technologies Apr 2024 - Jan 2026 | Software Engineer Aug 2021 - Mar 2024 | Hyderabad, India
   - Developed an **automated monitoring** framework for FOCG maintenance **data pipelines**, comparing Postgres vs DB2 tables in 5-minute intervals; ensuring early detection of missing MQ messages and improved data reliability. Reduced manual incident discovery time by **80%**.
@@ -53,6 +56,9 @@ Data Scientist & Software Engineer with 4.6+ years of experience in Python, pred
 - **Top 7%** in HackWithInfy.
 - Scored **1417/1800** in **TCS NQT**.
   
+### CERTIFICATIONS
+- **[AWS Certified AI Practitioner](https://www.credly.com/badges/808e5ae3-ec3e-4d67-ad19-3e70d3eda82f/public_url)**
+  
 ### TECHNICAL SKILLS
 - **Data Science:**
   - Machine Learning • Deep Learning • Predictive Modeling • Regression & Classification • Time Series Forecasting • Exploratory Data Analysis (EDA) • Probability & Statistics • Data Cleaning • Data Visualization • Neural Networks
@@ -60,8 +66,8 @@ Data Scientist & Software Engineer with 4.6+ years of experience in Python, pred
   - NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-learn • TensorFlow • Keras • Statsmodels
 - **Programming & MLOps:**
   - Python • SQL (PostgreSQL) • CI/CD Pipelines • GitHub Actions • Model Deployment (Flask, Render, Netlify)
-- **Familiar With:**
-  - Generative AI • LLMs • AWS • NLP • Agentic AI • RAG • Docker/Kubernetes
+- **Generative AI & LLMs:**
+  - RAG Pipelines • Agentic AI Prompt Engineering • LLM Workflows (Learning & applying in AI CoE projects)
   
 ### EDUCATION
 - **Osmania University**
